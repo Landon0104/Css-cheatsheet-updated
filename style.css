@@ -1,0 +1,24 @@
+/* Css Document */
+h1{color:red;}
+body {background-color: #FF9494
+	color#555555
+	font-family: arial, helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.6em;
+}
+h2{color:aqua}
+h3{color: #B1B2FF}
+h4{color: bisque}
+h5{color: #937DC2}
+h6{color: #ADDDD0}
+p{color: darkblue}
+.box-1{
+	background-color: black;
+	color: #fff;
+}
+body {margin:0;}
+.comtainer{
+	width: 960px;
+	margin: auto;
+}
